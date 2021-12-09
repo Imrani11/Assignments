@@ -1,3 +1,4 @@
+# check given word is palindrome or not
 def pandamic(num):
     temp=num
     rev=0
